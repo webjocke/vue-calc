@@ -1,5 +1,5 @@
 # vue-calc
-This project is based on this ![youtube video](https://www.youtube.com/watch?v=m1_ih43p24s) and the design is taken mostly from the iOS/Mac OS calculator.
+This project is based on this [youtube video](https://www.youtube.com/watch?v=m1_ih43p24s) and the design is taken mostly from the iOS/Mac OS calculator.
 
 ## Project setup
 ```
